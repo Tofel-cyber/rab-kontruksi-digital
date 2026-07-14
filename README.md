@@ -5,7 +5,7 @@
 npm install
 ```
 
-## Jalankan
+## Development
 ```bash
 npm run dev
 ```
