@@ -1,16 +1,12 @@
 # RAB Konstruksi Digital
 
-## Install
-```bash
-npm install
-```
+Aplikasi Rencana Anggaran Biaya untuk proyek konstruksi.
 
-## Development
-```bash
+## Install
+npm install
+
+## Jalankan
 npm run dev
-```
 
 ## Build
-```bash
 npm run build
-```
